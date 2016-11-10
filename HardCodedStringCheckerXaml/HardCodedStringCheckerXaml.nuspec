@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <title>TechSmith Hard Coded String Checker Xaml</title>
+    <version>$version$</version>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <iconUrl>http://assets.techsmith.com/Images/content/mkt-about/tsc-dl-image.png</iconUrl>
+    <description>Finds hard coded string in Xaml files
+New features:
+    v 0.1.0.0 Initial version; exploritory testing
+Breaking changes:
+
+Bugfixes:
+
+Misc:
+    </description>
+    <copyright>$copyright$</copyright>
+    <tags>Xaml Hard Coded Strings Checker Finder Fixer</tags>
+    <dependencies>
+    </dependencies> 
+  </metadata>
+</package>
